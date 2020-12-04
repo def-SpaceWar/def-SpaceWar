@@ -2,7 +2,9 @@
 
 ## Welcome to my Github home page!!
 
-I have no idea why you are here.
+I have no idea why you are here. -_-
+
+But ANYWAY...
 
 If you use VSCode _(Chances are you do!)_ here are some extensions you may be willing to try.
 
