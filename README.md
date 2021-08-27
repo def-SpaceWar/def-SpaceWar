@@ -16,4 +16,6 @@ If you use VSCode _(Chances are you do!)_ here are some extensions you may be wi
 
 4. **This is a theme for people who like Monodevelop's monokai theme! Monodevelop Monokai**: <a href="https://marketplace.visualstudio.com/items?itemName=AryanAhire.monodevelop-monokai">https://marketplace.visualstudio.com/items?itemName=AryanAhire.monodevelop-monokai</a>
 
-Thats all the extensions I have now. I am an Arch user and plan on making more extensions soon!
+Thats all the extensions I have now. I have a vim theme in the works, if you'd like the contribute or give an issue please do so!
+
+<a href="https://github.com/def-SpaceWar/monokai-apprentice.vim">Monokai Apprentice</a>
